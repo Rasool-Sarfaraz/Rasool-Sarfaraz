@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**Rasool-Sarfaraz/Rasool-Sarfaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h1>HI, My name is rasool</h1>
+  <img src="My Logo.png" align="right" width="500px"/>
+<hr/>
+  <p>I am a front end developer.<br>
+  I am trying to provide the best services in the field of website design.
+  </p>
+</div>
+<br>
+<br>
+<div>
+  <p>My Skills :</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind"/>
+</div>
+<hr/>
