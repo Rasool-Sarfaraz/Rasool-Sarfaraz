@@ -1,7 +1,7 @@
 <hr/>
 <h1>💫 About Me :</h1>
+<img src="./My Logo.png" width="125px" align="right"/>
 I am a Frontend Developer<br><br>🌱 I’m currently learning<br>🤝 I’m looking for help with<br>👯 I’m looking to collaborate on
-<img src="./My Logo"/>
 <hr/>
 <br>
 <hr/>
