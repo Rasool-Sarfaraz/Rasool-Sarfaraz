@@ -1,6 +1,6 @@
 <hr/>
 <h1>💫 About Me :</h1>
-I am a Frontend Developer<br><br>🌱 I’m currently learning<br>🤝 I’m looking for help with<br>👯 I’m looking to collaborate on
+I am a Junior Frontend Developer<br><br>🌱 I’m currently learning<br>🤝 I’m looking for help with<br>👯 I’m looking to collaborate on
 <hr/>
 <br>
 <hr/>
